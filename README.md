@@ -1,4 +1,4 @@
-# Designing a CNN classifier for colon tissue image classification by transfer learning using the pretrained AlexNet network.
+# Designing a CNN classifier for brain tumor segmentation by transfer learning using the pretrained AlexNet network.
 
 Task: Multimodal brain tumor segmentation.  
 
